@@ -15,12 +15,10 @@ body {
     }
 }
 
-
-.title {
+h1 {
     color: #f9f9f2;
     animation-name: slideIn;
     animation-duration: 1s;
-    padding: 0em 12em;
+    padding: 0em 17em;
     text-align: center;
-
 }
