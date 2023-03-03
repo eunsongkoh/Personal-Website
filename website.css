@@ -2,11 +2,13 @@
 
 @keyframes slideIn {
     from {
-        transform: translateX(-300px);
+        margin-left: -100%;
+        width: 300%
     }
 
     to {
-        transform: translateX(0);
+        margin-left: 0%;
+        width: 100%;
     }
 }
 
